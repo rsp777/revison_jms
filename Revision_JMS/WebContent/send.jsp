@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Send a message to </h1>
+<h1>Send a message to SOMEONE</h1>
 <form method="post" action="Send">
 	<p>Send Message: <input type="text" name="msg"></p>
 	<input type="Submit" value="Send">
